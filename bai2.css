@@ -1,0 +1,16 @@
+.square{
+    width: 481px;
+    height: 481px;
+    border-radius: 50%;
+    border: 31px solid #F2994A;
+}
+.grid-1{
+    display: grid;
+    grid-template-columns: 96px 96px 96px;
+    grid-template-rows: 184px;
+    justify-content: center;
+}
+.item-vertical{
+    background: #EB5757;
+    border-radius: 25%;
+}
